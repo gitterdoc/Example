@@ -1,0 +1,11 @@
+{
+    "title": "Example",
+    "description": "This is a cool example of documentations!",
+    "version": "1.0.0",
+    "theme": "",
+    "type": "",
+    "options": {
+        "source": "",
+        "output": ""
+    }
+}
